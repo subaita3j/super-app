@@ -1,0 +1,138 @@
+.weatherContainer {
+  width: 600px;
+  height: 200px;
+  border-radius: 19px;
+  background: #101744;
+  margin-top: 20px;
+}
+
+.weatherData {
+  width: 600px;
+  height: 56px;
+  border-radius: 19px 19px 0px 0px;
+  background: #ff4ade;
+  color: #fff;
+  font-family: Roboto;
+  font-size: 36.06px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+  text-align: center;
+  padding-top: 9px;
+}
+
+span {
+  padding-right: 100px;
+}
+
+.weatherDataContainer {
+  display: flex;
+}
+
+.weatherIcon img {
+  height: 100px;
+  width: 105px;
+  padding-top: 0px;
+  position: relative;
+  left: 40px;
+}
+
+.weatherIcon p {
+  color: #fff;
+  font-family: Roboto;
+  font-size: 21.432px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 139.688%;
+  margin: 0;
+  position: relative;
+  bottom: 20px;
+  left: 65px;
+}
+
+.weatherLine {
+  width: 1.367px;
+  height: 69.37px;
+  background: #fff;
+  margin-left: 74px;
+  margin-right: 23px;
+  position: relative;
+  top: 25px;
+}
+.weatherTemp span {
+  padding: 0px;
+}
+
+.weathertemperature {
+  color: #fff;
+  font-family: Roboto;
+  font-size: 38.224px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 139.688%;
+  text-align: center;
+  margin: 0;
+  margin-top: 10px;
+  position: relative;
+  left: 20px;
+}
+
+.weatherpressure {
+  color: #fff;
+  font-family: Roboto;
+  font-size: 17px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 139.688%;
+  margin: 0px;
+  text-align: center;
+  position: relative;
+  bottom: 10px;
+  left: 20px;
+}
+
+.weatherpressure img {
+  position: relative;
+  top: 30px;
+  right: 10px;
+}
+
+.weatherWindDiv {
+  height: 100px;
+}
+
+.WeatherWindIcon {
+  position: relative;
+  top: 20px;
+}
+
+.WeatherWind {
+  color: #fff;
+  font-family: Roboto;
+  font-size: 18.599px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 139.688%;
+  text-align: left;
+  position: relative;
+  bottom: 42px;
+  left: 60px;
+}
+.WeatherHumidityIcon {
+  position: relative;
+  left: 15px;
+  bottom: 45px;
+}
+
+.WeatherHumidity {
+  color: #fff;
+  font-family: Roboto;
+  font-size: 18.599px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 139.688%;
+  text-align: left;
+  position: relative;
+  bottom: 111px;
+  left: 60px;
+}

@@ -1,0 +1,25 @@
+.Genreheading {
+  color: #fff;
+  margin-left: 36px;
+  font-family: Roboto;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: bold;
+  line-height: 139.688%; /* 41.906px */
+  letter-spacing: 0.6px;
+}
+.MoviesContainer {
+  border-radius: 9.159px;
+  display: flex;
+  margin-left: 40px;
+}
+.movieTitles {
+  width: 400px;
+  margin-bottom: 20px;
+}
+
+.MovieImg {
+  border-radius: 19px;
+  object-fit: cover;
+  background-repeat: no-repeat;
+}

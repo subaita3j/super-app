@@ -1,0 +1,21 @@
+.container {
+  background: url(../../assets/RegisterBanner.png);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  height: 100vh;
+  width: 50%;
+}
+
+.bannerHeading {
+  color: #fff;
+  font-family: Roboto;
+  font-size: 45px;
+  font-style: normal;
+  font-weight: 900;
+  line-height: 141.688%; /* 77.928px */
+  letter-spacing: 1.1px;
+  margin: 0 0 0 70px;
+  position: relative;
+  top: 520px;
+}
