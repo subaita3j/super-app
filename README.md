@@ -16,7 +16,7 @@
 
 ### DashBoard Page
 
-![](./src/assets/Dashboard.png)
+![](./src/assets/DashBordPage.jpg)
 
 ## Page 4
 
